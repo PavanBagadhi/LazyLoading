@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const Albums = (props) => {
-  console.log('changes')
+console.log('Normal github changes')
   return (
     <ul>
       {props.albums.map((alb) => {
@@ -15,4 +15,4 @@ const Albums = (props) => {
 export default Albums;
 
 
-console.log('Normal github changes')
+
