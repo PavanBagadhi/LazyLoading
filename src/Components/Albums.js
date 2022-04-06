@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const Albums = (props) => {
-console.log('Normal github changes')
+console.log('Normal github changes are done')
   return (
     <ul>
       {props.albums.map((alb) => {
