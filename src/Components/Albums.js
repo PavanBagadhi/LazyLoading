@@ -2,7 +2,6 @@ import React from 'react';
 
 
 const Albums = (props) => {
-console.log('Normal')
   return (
     <ul>
       {props.albums.map((alb) => {
