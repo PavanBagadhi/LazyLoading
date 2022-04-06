@@ -24,3 +24,6 @@ const Photos = (props) => {
 
 // export default trackWindowScroll(Photos)
 export default Photos;
+
+
+//Added some data in the content
